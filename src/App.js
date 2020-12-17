@@ -19,7 +19,7 @@ export default function App() {
          
         </div>
         <div className="frame__nav">
-        <a className="frame__link" href="https://isengupt.github.io/fiber-website/">
+        <a className="frame__link" href="https://isengupt.github.io/particles-image/">
             Previous
           </a>
           <a className="frame__link" href="#">
